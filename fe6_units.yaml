@@ -1,0 +1,36 @@
+Roy:
+  bases: { lvl: 1, hp: 18, str: 5, skl: 5, spd: 7, lck: 7, def: 5, res: 0, con: 6, mov: 5 }
+  growths: { hp: 80, str: 40, skl: 50, spd: 40, lck: 60, def: 25, res: 30 }
+  class: Lord
+  promoted: False
+  weapons: { sword: D }
+Marcus:
+  bases: { lvl: 1, hp: 32, str: 9, skl: 14, spd: 11, lck: 10, def: 9, res: 8, con: 11, mov: 8 }
+  growths: { hp: 60, str: 25, skl: 20, spd: 25, lck: 20, def: 15, res: 20 }
+  class: Paladin
+  promoted: True
+  weapons: { sword: D, lance: A, axe: E }
+Allen:
+  bases: { lvl: 1, hp: 21, str: 7, skl: 4, spd: 6, lck: 3, def: 6, res: 0, con: 9, mov: 7 }
+  growths: { hp: 85, str: 45, skl: 40, spd: 45, lck: 40, def: 25, res: 10 }
+  class: Cavalier
+  promoted: False
+  weapons: { sword: E, lance: D }
+Lance:
+  bases: { lvl: 1, hp: 20, str: 5, skl: 6, spd: 8, lck: 2, def: 6, res: 0, con: 9, mov: 7 }
+  growths: { hp: 80, str: 40, skl: 45, spd: 50, lck: 35, def: 20, res: 15 }
+  class: Cavalier
+  promoted: False
+  weapons: { sword: E, lance: D }
+Wolt:
+  bases: { lvl: 1, hp: 18, str: 4, skl: 4, spd: 5, lck: 2, def: 4, res: 0, con: 7, mov: 5 }
+  growths: { hp: 80, str: 40, skl: 50, spd: 40, lck: 40, def: 20, res: 10 }
+  class: Archer
+  promoted: False
+  weapons: { bow: D }
+Bors:
+  bases: { lvl: 1, hp: 20, str: 7, skl: 4, spd: 3, lck: 4, def: 11, res: 0, con: 14, mov: 4 }
+  growths: { hp: 90, str: 30, skl: 30, spd: 40, lck: 50, def: 35, res: 10 }
+  class: Knight
+  promoted: False
+  weapons: { lance: C }

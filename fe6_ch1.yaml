@@ -1,0 +1,42 @@
+- class: Archer
+  inventory: [Iron Bow, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 3, hp: 18, lck: 0, lvl: 1, res: 0, skl: 3, spd: 3, str: 4}
+- class: Fighter
+  inventory: [Steel Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 4, hp: 28, lck: 0, lvl: 5, res: 0, skl: 5, spd: 6, str: 9}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Bandit
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 3, hp: 20, lck: 0, lvl: 1, res: 0, skl: 1, spd: 5, str: 5}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Archer
+  inventory: [Iron Bow, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 3, hp: 18, lck: 0, lvl: 1, res: 0, skl: 3, spd: 3, str: 4}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
+- class: Fighter
+  inventory: [Iron Axe, Nothing, Nothing, Nothing, Nothing]
+  stats: {def: 2, hp: 20, lck: 0, lvl: 1, res: 0, skl: 2, spd: 4, str: 5}
